@@ -1,4 +1,4 @@
-# quote-generator
+# Quote Generator
 
-**Links:**
+**Important Links:**
 1. https://github.com/lukePeavey/quotable
